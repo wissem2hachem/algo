@@ -55,19 +55,7 @@ Copy
 ⚠️ Bubble Sort took 0.129456 seconds.
 ✅ Selection Sort took 0.078943 seconds.
 🚀 Python Built-in Sort took 0.000032 seconds.
-🧑‍💻 How to Run
-Clone this repository to your local machine.
-bash
-Copy
-git clone https://github.com/yourusername/sorting-algorithms.git
-Navigate to the project directory.
-bash
-Copy
-cd sorting-algorithms
-Run the main.py script to execute the sorting algorithms and performance tests.
-bash
-Copy
-python main.py
+
 🔍 Analysis and Conclusion
 Bubble Sort and Selection Sort are both inefficient for large datasets due to their O(n²) time complexity.
 Selection Sort tends to perform better than Bubble Sort, but both still struggle with larger datasets.
@@ -79,5 +67,3 @@ Selection Sort has a time complexity of O(n²), which also makes it inefficient 
 Bubble Sort
 Selection Sort
 Python Sorted Function
-📅 License
-This project is licensed under the MIT License - see the LICENSE file for details.
